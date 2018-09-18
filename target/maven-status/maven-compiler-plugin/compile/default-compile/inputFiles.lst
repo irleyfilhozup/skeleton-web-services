@@ -1,0 +1,6 @@
+/home/zup/workspace/skeleton-web-services/src/main/java/org/example/ws/services/GreetingServiceBean.java
+/home/zup/workspace/skeleton-web-services/src/main/java/org/example/ws/models/Greeting.java
+/home/zup/workspace/skeleton-web-services/src/main/java/org/example/ws/Application.java
+/home/zup/workspace/skeleton-web-services/src/main/java/org/example/ws/api/GreetingController.java
+/home/zup/workspace/skeleton-web-services/src/main/java/org/example/ws/repository/GreetingRepository.java
+/home/zup/workspace/skeleton-web-services/src/main/java/org/example/ws/services/GreetingService.java
